@@ -1,0 +1,10 @@
+﻿paho-mqtt==2.1.0
+streamlit
+pandas
+matplotlib
+python-dotenv
+numpy
+requests
+watchdog
+sqlalchemy
+psycopg2-binary
