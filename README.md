@@ -154,16 +154,7 @@ Replace placeholder files in `screenshots/` with real captures from your local r
 ![Docker Containers](screenshots/docker-containers.png)
 ![Database Table](screenshots/database-table.png)
 
-## 10. Team Contribution
-Use this section to show individual ownership clearly in team evaluation.
-
-| Member | Role | Contribution |
-|---|---|---|
-| Ahmed (You) | Data Engineer | Pipeline design, ingestion, MQTT flow, ETL, dashboard integration |
-| Team Member 2 | Data Analyst/Engineer | Add exact tasks |
-| Team Member 3 | Backend/DevOps | Add exact tasks |
-
-## 11. Future Improvements
+## 10. Future Improvements
 - Replace CSV intermediate layer with Kafka and schema registry
 - Add Airflow scheduling for ETL and summary jobs
 - Add unit/integration tests and CI pipeline
@@ -171,6 +162,4 @@ Use this section to show individual ownership clearly in team evaluation.
 - Add authentication and role-based access for dashboard users
 - Add data quality checks and retry/dead-letter handling for stream failures
 
-## 12. Documents
-- [Project Document](docs/project-document.pdf)
-- [Research Paper](docs/research-paper.pdf)
+
