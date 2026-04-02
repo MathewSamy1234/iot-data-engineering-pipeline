@@ -144,17 +144,8 @@ python daily_email_summary.py
   - email subscription
 - Daily email summary service
 
-## 9. Screenshots
-Replace placeholder files in `screenshots/` with real captures from your local run.
 
-![Dashboard Main](screenshots/dashboard-home.png)
-![Comparison Section](screenshots/comparison-section.png)
-![Prediction Panel](screenshots/prediction-panel.png)
-![Email Feature](screenshots/email-feature.png)
-![Docker Containers](screenshots/docker-containers.png)
-![Database Table](screenshots/database-table.png)
-
-## 10. Future Improvements
+## 9. Future Improvements
 - Replace CSV intermediate layer with Kafka and schema registry
 - Add Airflow scheduling for ETL and summary jobs
 - Add unit/integration tests and CI pipeline
